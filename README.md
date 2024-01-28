@@ -19,5 +19,5 @@ export AWS_SECRET_ACCESS_KEY="asecretkey"
 terraform init
 terraform apply
 ```
-Access https://andre.code.studucu.com (or change the variable subdomain on variables.tf for different address)
-The ec2 instances ssh access key is output as well
+- Access https://andre.code.studucu.com (or change the variable subdomain on variables.tf for different address)
+- The ec2 instances ssh access key is output as well
