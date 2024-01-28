@@ -48,6 +48,6 @@ variable "root_domain" {
 
 variable "subdomain" {
   type        = string
-  description = "root domain"
+  description = "custom subdomain"
   default     = "andre.code.studucu.com"
 }
